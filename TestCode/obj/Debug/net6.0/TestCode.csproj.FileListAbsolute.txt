@@ -1,0 +1,30 @@
+E:\Retrac auncher\TestCode\TestCode\bin\Debug\net6.0\TestCode.exe
+E:\Retrac auncher\TestCode\TestCode\bin\Debug\net6.0\TestCode.deps.json
+E:\Retrac auncher\TestCode\TestCode\bin\Debug\net6.0\TestCode.runtimeconfig.json
+E:\Retrac auncher\TestCode\TestCode\bin\Debug\net6.0\TestCode.dll
+E:\Retrac auncher\TestCode\TestCode\bin\Debug\net6.0\TestCode.pdb
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.csproj.AssemblyReference.cache
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.AssemblyInfoInputs.cache
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.AssemblyInfo.cs
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.csproj.CoreCompileInputs.cache
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.dll
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\refint\TestCode.dll
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.pdb
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\TestCode.genruntimeconfig.cache
+E:\Retrac auncher\TestCode\TestCode\obj\Debug\net6.0\ref\TestCode.dll
+E:\TestCode\TestCode\bin\Debug\net6.0\TestCode.exe
+E:\TestCode\TestCode\bin\Debug\net6.0\TestCode.deps.json
+E:\TestCode\TestCode\bin\Debug\net6.0\TestCode.runtimeconfig.json
+E:\TestCode\TestCode\bin\Debug\net6.0\TestCode.dll
+E:\TestCode\TestCode\bin\Debug\net6.0\TestCode.pdb
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.csproj.AssemblyReference.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.AssemblyInfoInputs.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.AssemblyInfo.cs
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.csproj.CoreCompileInputs.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.dll
+E:\TestCode\TestCode\obj\Debug\net6.0\refint\TestCode.dll
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.pdb
+E:\TestCode\TestCode\obj\Debug\net6.0\TestCode.genruntimeconfig.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\ref\TestCode.dll

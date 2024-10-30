@@ -1,0 +1,18 @@
+E:\TestCode\TestCode\bin\Debug\net6.0\FRITXY CONSOLE.exe
+E:\TestCode\TestCode\bin\Debug\net6.0\FRITXY CONSOLE.deps.json
+E:\TestCode\TestCode\bin\Debug\net6.0\FRITXY CONSOLE.runtimeconfig.json
+E:\TestCode\TestCode\bin\Debug\net6.0\FRITXY CONSOLE.dll
+E:\TestCode\TestCode\bin\Debug\net6.0\FRITXY CONSOLE.pdb
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.csproj.AssemblyReference.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.AssemblyInfoInputs.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.AssemblyInfo.cs
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.csproj.CoreCompileInputs.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.dll
+E:\TestCode\TestCode\obj\Debug\net6.0\refint\FRITXY CONSOLE.dll
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.pdb
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.genruntimeconfig.cache
+E:\TestCode\TestCode\obj\Debug\net6.0\ref\FRITXY CONSOLE.dll
+E:\TestCode\TestCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\TestCode\TestCode\bin\Debug\net6.0\Slack.Webhooks.dll
+E:\TestCode\TestCode\obj\Debug\net6.0\FRITXY CONSOLE.csproj.CopyComplete

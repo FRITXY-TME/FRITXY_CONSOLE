@@ -1,0 +1,7 @@
+E:\TestCode\TestCode\bin\Release\net6.0\publish\FRITXY CONSOLE.exe
+E:\TestCode\TestCode\bin\Release\net6.0\publish\FRITXY CONSOLE.dll
+E:\TestCode\TestCode\bin\Release\net6.0\publish\FRITXY CONSOLE.deps.json
+E:\TestCode\TestCode\bin\Release\net6.0\publish\FRITXY CONSOLE.runtimeconfig.json
+E:\TestCode\TestCode\bin\Release\net6.0\publish\FRITXY CONSOLE.pdb
+E:\TestCode\TestCode\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+E:\TestCode\TestCode\bin\Release\net6.0\publish\Slack.Webhooks.dll
